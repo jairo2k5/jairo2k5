@@ -12,7 +12,7 @@
 - HTML5/CSS3
 
 ## Operating System I use:
-- Linux Debian 10 Buster
+- Linux Mint 20.1 Ulyssa
 - I also use Linux Terminal
 
 <div style="display:grid;grid-template-rows:1fr1fr;">
