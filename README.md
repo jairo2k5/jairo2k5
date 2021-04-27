@@ -9,7 +9,8 @@
 
 ## Front-end development languages
 - JavaScript (ES6)
-- HTML5/CSS3
+- HTML5
+- CSS3
 
 ## Operating System I use:
 - Linux Mint 20.1 Ulyssa
