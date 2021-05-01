@@ -4,8 +4,8 @@
 ## Back-end development languages
 - MySQL/Databases (Learning)
 - PHP/PDO (Learning CRUD)
-- Python (Learn)
-- Java (Learning POO)
+- Python (Learning)
+- Java (Learning JDBC)
 
 ## Front-end development languages
 - JavaScript (ES6)
