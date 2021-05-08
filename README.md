@@ -14,7 +14,7 @@
 
 ## Operating System I use:
 - Linux Mint 20.1 Ulyssa
-- I also use Linux Terminal
+- Linux Terminal(Bash, Zsh)
 
 <div style="display:grid;grid-template-rows:1fr1fr;">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true" />
