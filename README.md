@@ -16,14 +16,9 @@
 1. Linux Manjaro 21.0.4 XFCE
 2. Linux Terminal(Bash, Fish)
 
-<div style="display:grid;grid-template-rows:1fr1fr;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=default)](https://github.com/jairosilva2005/github-readme-stats" />
-</div>
-
 ## Social Media
 <div align="center">
-<a href="https://www.instagram.com/jairo_nth/">Instagram</a>
-<a href="https://twitter.com/jairosilva2005">Twitter</a>
+<a href="https://www.instagram.com/jairo_nth/">Instagram</a> |
+<a href="https://twitter.com/jairosilva2005">Twitter</a> |
 <a href="https://www.facebook.com/jairo.holanda.7330">Facebook</a>
 </div>
