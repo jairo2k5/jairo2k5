@@ -1,27 +1,29 @@
 <h1 align="center">Jairo Silva</h1>
-<p align="center">Learn Front-end and Back-end development 🚀</p>
+<p align="center">Learn Full-stack development 🚀</p>
 
 ## Back-end development languages
-- MySQL/Databases (Learning)
-- PHP/PDO (Learning CRUD)
-- C/C++ (C++98, C++11)
-- Java (Learning JDBC, Data Structures)
+1. MySQL/Databases (Learning)
+2. PHP/PDO (Learning CRUD)
+3. C/C++ (C++98, C++11)
+4. Java (Learning JDBC, Data Structures)
 
 ## Front-end development languages
-- JavaScript (ES6)
-- HTML5
-- CSS3
+1. JavaScript (ES6)
+2. HTML5
+3. CSS3
 
 ## Operating System I use:
-- Linux Mint 20.1 Ulyssa
-- Linux Terminal(Bash, Zsh)
+1. Linux Manjaro 21.0.4 XFCE
+2. Linux Terminal(Bash, Fish)
 
 <div style="display:grid;grid-template-rows:1fr1fr;">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=default)](https://github.com/jairosilva2005/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=default)](https://github.com/jairosilva2005/github-readme-stats" />
 </div>
 
 ## Social Media
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jairosilva2005)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jairo_nth/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/jairo.holanda.7330)
+<div align="center">
+<a href="https://www.instagram.com/jairo_nth/">Instagram</a>
+<a href="https://twitter.com/jairosilva2005">Twitter</a>
+<a href="https://www.facebook.com/jairo.holanda.7330">Facebook</a>
+</div>
