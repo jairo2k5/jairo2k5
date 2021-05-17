@@ -16,6 +16,16 @@
 1. Linux Manjaro 21.0.4 XFCE
 2. Linux Terminal(Bash, Fish)
 
+# [GitHub Stats Visualization](https://github.com/jairosilva2005/github-stats)
+
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/jairosilva2005/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jairosilva2005/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+
 ## Social Media
 <div align="center">
 <a href="https://www.instagram.com/jairo_nth/">Instagram</a> |
