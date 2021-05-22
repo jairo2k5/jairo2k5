@@ -14,7 +14,7 @@
 
 ## Operating System I use:
 1. 🐧 Linux Manjaro 21.0.4 XFCE
-2. ⌨️ Linux Terminal(Bash, Fish)
+2. 🕵🏽‍♂️ Linux Terminal(Bash, Fish)
 
 ## Social Media
 <div align="center">
