@@ -2,19 +2,19 @@
 <p align="center">Learn Full-stack development 🚀</p>
 
 ## Back-end development languages
-1. MySQL/Databases (Learning)
-2. 🪶 PHP/PDO (Learning CRUD)
-3. C/C++ (C++98, C++11)
+1. 🐬 MySQL/Databases (Learning)
+2. 🐘 PHP/PDO (Learning CRUD)
+3. 😼 C/C++ (C++98, C++11)
 4. ☕ Java (Learning JDBC, Data Structures)
 
 ## Front-end development languages
-1. JavaScript (ES6)
-2. HTML5
-3. CSS3
+1. ⚛️ JavaScript (ES6)
+2. 📄 HTML5
+3. 📰 CSS3
 
 ## Operating System I use:
-1. Linux Manjaro 21.0.4 XFCE
-2. Linux Terminal(Bash, Fish)
+1. 🐧 Linux Manjaro 21.0.4 XFCE
+2. ⌨️ Linux Terminal(Bash, Fish)
 
 ## Social Media
 <div align="center">
