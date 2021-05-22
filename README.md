@@ -3,9 +3,9 @@
 
 ## Back-end development languages
 1. MySQL/Databases (Learning)
-2. PHP/PDO (Learning CRUD)
+2. 🪶 PHP/PDO (Learning CRUD)
 3. C/C++ (C++98, C++11)
-4. Java (Learning JDBC, Data Structures)
+4. ☕ Java (Learning JDBC, Data Structures)
 
 ## Front-end development languages
 1. JavaScript (ES6)
