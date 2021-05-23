@@ -1,11 +1,11 @@
-<h1 align="center">Jairo Silva</h1>
+<h1 align="center">Jairo Silva 👾</h1>
 <p align="center">Learn Full-stack development 🚀</p>
 
 ## Back-end development languages
-1. 🐬 MySQL/Databases (Learning)
-2. 🐘 PHP/PDO (Learning CRUD)
+1. 🐬 MySQL/Databases
+2. 🐘 PHP
 3. 😼 C/C++ (C++98, C++11)
-4. ☕ Java (Learning JDBC, Data Structures)
+4. ☕ Java
 
 ## Front-end development languages
 1. ⚛️ JavaScript (ES6)
@@ -13,12 +13,9 @@
 3. 📰 CSS3
 
 ## Operating System I use:
-1. 🐧 Linux Manjaro 21.0.4 XFCE
+1. 🐧 Linux Manjaro 21.0.4 
 2. 🕵🏽‍♂️ Linux Terminal(Bash, Fish)
 
-## Social Media
-<div align="center">
-<a href="https://www.instagram.com/jairo_nth/">Instagram</a> |
-<a href="https://twitter.com/jairosilva2005">Twitter</a> |
-<a href="https://www.facebook.com/jairo.holanda.7330">Facebook</a>
-</div>
+[](https://slackmojis.com/emojis/12726-space_float/download)
+
+![space float among us](https://emojis.slackmojis.com/emojis/images/1613270271/12726/space_float.gif?1613270271 "space float among us")
