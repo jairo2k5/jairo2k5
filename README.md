@@ -1,5 +1,5 @@
 <h1 align="center">Jairo H. Da Silva 👾</h1>
-<p align="center">Learn Full-stack development 🚀</p>
+<p align="center">Learn Full-stack development 🦅</p>
 
 ## Back-end development languages
 1. 🐬 MySQL/Databases
