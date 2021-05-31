@@ -2,7 +2,7 @@
 <p align="center">Learn Full-stack development 🦅</p>
 
 ## Back-end development languages
-1. 🐬 MySQL/Databases
+1. 🐬 MySQL
 2. 🐘 PHP
 3. 😼 C/C++ (C++98, C++11)
 4. ☕ Java
