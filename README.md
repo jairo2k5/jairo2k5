@@ -8,7 +8,9 @@
 4. ☕ Java
 
 ## Front-end development languages
-1. ⚛️ JavaScript (ES6)
+1. ⚛️ JavaScript
+   ES6
+   React.js
 2. 📄 HTML5
 3. 📰 CSS3
 
