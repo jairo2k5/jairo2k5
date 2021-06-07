@@ -10,7 +10,7 @@
 ## Front-end development languages
 1. ⚛️ JavaScript (ES6, React.js)
 2. 📄 HTML5
-3. 📰 CSS3
+3. 📰 CSS3 (Scss, Sass)
 
 ## Operating System I use:
 1. 🐧 Linux Manjaro 21.0.4 
