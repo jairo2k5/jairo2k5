@@ -18,10 +18,10 @@
 2. 🕵🏽‍♂️ Linux Terminal(Bash, Fish, Zsh)
 
 ## Projetos
-<a href="https://jairosilva2005.github.io/javascript-calculator/">Calculadora - JavaScript</a>
-<a href="https://jairosilva2005.github.io/tictactoe/">TicTacToe - JavaScript</a>
-<a href="https://my-website-nu-ten.vercel.app/">My Website - HTML - CSS</a>
-<a href="http://jbrowser-website.vercel.app/">JBrowser website - JavaScript - Sass</a>
+<a href="https://jairosilva2005.github.io/javascript-calculator/">Calculadora - JavaScript</a><br />
+<a href="https://jairosilva2005.github.io/tictactoe/">TicTacToe - JavaScript</a><br />
+<a href="https://my-website-nu-ten.vercel.app/">My Website - HTML - CSS</a><br />
+<a href="http://jbrowser-website.vercel.app/">JBrowser website - JavaScript - Sass</a><br />
 
 ![Jairo SIlva GitHub stats](https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact&theme=dracula&hide=html)
