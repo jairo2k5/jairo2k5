@@ -2,20 +2,26 @@
 <h1 align="center">Jairo H. Da Silva 👾</h1>
 <p align="center">Learn Full-stack development 🦅</p>
 
-## Back-end development languages
+## Linguagens de desenvolvimento Back-end
 1. 🐬 MySQL
 2. 🐘 PHP
 3. 😼 C/C++ (C++98, C++11)
 4. ☕ Java
 
-## Front-end development languages
+## Linguagens de desenvolvimento Front-end
 1. ⚛️ JavaScript (ES6, React.js)
 2. 📄 HTML5
 3. 📰 CSS3 (Scss, Sass)
 
-## Operating System I use:
-1. 🐧 Linux Manjaro 21.0.4 
-2. 🕵🏽‍♂️ Linux Terminal(Bash, Fish)
+## Sistema operacional
+1. 🐧 Linux Lite 5.4 (Baseado em Ubuntu)
+2. 🕵🏽‍♂️ Linux Terminal(Bash, Fish, Zsh)
+
+## Projetos
+https://jairosilva2005.github.io/javascript-calculator/
+https://jairosilva2005.github.io/tictactoe/
+https://my-website-nu-ten.vercel.app/
+http://jbrowser-website.vercel.app/
 
 ![Jairo SIlva GitHub stats](https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact&theme=dracula&hide=html)
