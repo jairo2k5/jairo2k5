@@ -15,7 +15,7 @@
 
 ## Sistema operacional
 1. 🐧 Linux Lite 5.4 (Baseado em Ubuntu)
-2. 🕵🏽‍♂️ Linux Terminal(Bash, Fish, Zsh)
+2. 🕵🏽‍♂️ Linux Terminal (Bash, Fish, Zsh)
 
 ## Projetos
 <a href="https://jairosilva2005.github.io/javascript-calculator/">Calculadora - JavaScript</a><br />
