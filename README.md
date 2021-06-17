@@ -1,6 +1,6 @@
 
-<h1 align="center">Jairo H. Da Silva 🤠</h1>
-<p align="center">Full Stack 🦾🤖</p>
+<h1 align="center">Jairo H. Da Silva 👨‍💻</h1>
+<p align="center">Full Stack 📌</p>
 
 ## Linguagens de desenvolvimento Back-end
 1. 🐬 MySQL
