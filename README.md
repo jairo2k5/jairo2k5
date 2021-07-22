@@ -9,13 +9,13 @@
 4. ☕ Java
 
 ## Linguagens de desenvolvimento Front-end
-1. ⚛️ JavaScript (ES6, React.js)
+1. ⚛️ JavaScript (Node.js, React.js)
 2. 📄 HTML5
 3. 📰 CSS3 (Scss, Sass)
 
 ## Sistema operacional
-1. 🐧 Linux Lite 5.4 (Baseado em Ubuntu)
-2. 🕵🏽‍♂️ Linux Terminal (Bash, Fish, Zsh)
+1. 🐧 Linux Lite 5.4
+2. 🕵🏽‍♂️ Linux Terminal
 
 ## Projetos
 <a href="https://jairosilva2005.github.io/javascript-calculator/">Calculadora - JavaScript</a><br />
