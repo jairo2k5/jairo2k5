@@ -4,7 +4,7 @@
 ## Linguagens de desenvolvimento Back-end
 1. 🐬 MySQL
 2. 🐘 PHP
-3. 😼 C/C++ (C++98, C++11)
+3. 😼 C/C++ [C++98, C++11]
 4. ☕ Java
 
 ## Linguagens de desenvolvimento Front-end
