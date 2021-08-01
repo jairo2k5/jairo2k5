@@ -27,8 +27,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact&theme=dracula&hide=html)
 
 <div style="display:inline_block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=dracula" width="50%" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact&theme=dracula&hide=html" width="49.248%" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=dracula" width="100%" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact&theme=dracula&hide=html" width="100%" height="180em">
 </div>
 
 ![space float among us](https://emojis.slackmojis.com/emojis/images/1613270271/12726/space_float.gif?1613270271 "space float among us")
