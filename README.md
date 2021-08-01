@@ -26,7 +26,7 @@
 ![Jairo SIlva GitHub stats](https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact&theme=dracula&hide=html)
 
-<div style="display:inline_block;">
+<div style="display:inline;">
   <img src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=dracula" width="100%" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact&theme=dracula&hide=html" width="100%" height="180em">
 </div>
