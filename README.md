@@ -23,8 +23,7 @@
 [JBrowser Website](http://jbrowser-website.vercel.app/)
 [Save.do Tasks](https://cdpn.io/jairosilva2005/debug/QWvydEd/bZrQWKQDOaWk)
 
-![Jairo SIlva GitHub stats](https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact&theme=dracula&hide=html)
+## Estatísticas
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=dracula" width="50%" height="180em">
