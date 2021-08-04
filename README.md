@@ -39,7 +39,7 @@
 ![](https://emojis.slackmojis.com/emojis/images/1554740062/5584/deployparrot.gif?1554740062)
 ![](https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216)
 ![](https://emojis.slackmojis.com/emojis/images/1580448086/7667/think-about-it.png?1580448086)
-![](https://emojis.slackmojis.com/emojis/images/1614980223/17617/mariodance_pbj.gif?1614980223)
+![](https://emojis.slackmojis.com/emojis/images/1589323974/9036/stonks.png?1589323974)
 
 <hr>
 
