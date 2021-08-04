@@ -19,7 +19,6 @@
 ## Projetos
 [Calculadora](https://jairosilva2005.github.io/javascript-calculator/)
 [TicTacToe](https://jairosilva2005.github.io/tictactoe/)
-[My Website](https://my-website-nu-ten.vercel.app/)
 [JBrowser Website](http://jbrowser-website.vercel.app/)
 [Save.do Tasks](https://cdpn.io/jairosilva2005/debug/QWvydEd/bZrQWKQDOaWk)
 
