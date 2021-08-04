@@ -1,5 +1,10 @@
 <h1 align="center">Jairo H. Da Silva 👨‍💻</h1> 
-<h3 align="center">Full Stack 📌</h3>
+<h3 align="center">Sempre aprendendo 📌</h3>
+
+## Sobre mim
+🌱 Nunca é tarde para aprender algo novo
+📚 Terminando o ensino médio
+💻 Cursando técnico de T.I
 
 ## Linguagens de desenvolvimento Back-end
 1. 🐬 MySQL
@@ -8,9 +13,9 @@
 4. ☕ Java
 
 ## Linguagens de desenvolvimento Front-end
-1. ⚛️ JavaScript (Node.js, React.js)
+1. ⚛️ JavaScript | Node.js | React.js
 2. 📄 HTML5
-3. 📰 CSS3 (Scss, Sass)
+3. 📰 CSS3 | Pré-processadores
 
 ## Sistema operacional
 1. 🐧 Linux Lite 5.4
