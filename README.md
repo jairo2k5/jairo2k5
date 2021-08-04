@@ -37,6 +37,8 @@
 ![](https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873)
 ![](https://emojis.slackmojis.com/emojis/images/1561763719/5906/this-is-fine-fire.gif?1561763719)
 ![](https://emojis.slackmojis.com/emojis/images/1554740062/5584/deployparrot.gif?1554740062)
+![](https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216)
+![](https://emojis.slackmojis.com/emojis/images/1580448086/7667/think-about-it.png?1580448086)
 
 <hr>
 
