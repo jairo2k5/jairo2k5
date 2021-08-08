@@ -2,9 +2,9 @@
 <h3 align="center">Sempre aprendendo 📌</h3>
 
 ## Sobre mim
-🌱 Nunca é tarde para aprender algo novo <br>
-📚 Terminando o ensino médio <br>
-💻 Cursando técnico de T.I <br>
+* 🌱 Nunca é tarde para aprender algo novo <br>
+* 📚 Terminando o ensino médio <br>
+* 💻 Cursando técnico de T.I <br>
 
 ## Linguagens de desenvolvimento Back-end
 1. 🐬 MySQL | SQL
