@@ -7,19 +7,19 @@
 * 💻 Cursando técnico de T.I <br>
 
 ## Linguagens de desenvolvimento Back-end
-1. 🐬 MySQL | SQL
-2. 🐘 PHP
-3. 😼 C/C++ (C++98 | C++11)
-4. ☕ Java
+* 🐬 MySQL | SQL
+* 🐘 PHP
+* 😼 C/C++ (C++98 | C++11)
+* ☕ Java
 
 ## Linguagens de desenvolvimento Front-end
-1. ⚛️ JavaScript | Node.js | React.js
-2. 📄 HTML5
-3. 📰 CSS3 | Pré-processadores
+* ⚛️ JavaScript | Node.js | React.js
+* 📄 HTML5
+* 📰 CSS3 | Pré-processadores
 
 ## Sistema operacional
-1. 🐧 Linux Lite 5.4
-2. 🕵🏽‍♂️ Linux Terminal
+* 🐧 Linux Lite 5.4
+* 🕵🏽‍♂️ Linux Terminal
 
 ## Projetos
 [Calculadora](https://jairosilva2005.github.io/javascript-calculator/)
