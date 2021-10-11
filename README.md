@@ -25,7 +25,7 @@
 [Calculadora](https://jairosilva2005.github.io/javascript-calculator/)
 [TicTacToe](https://jairosilva2005.github.io/tictactoe/)
 [JBrowser Website](http://jbrowser-website.vercel.app/)
-[Save.do Tasks](https://cdpn.io/jairosilva2005/debug/QWvydEd/bZrQWKQDOaWk)
+[Save.do Tasks](https://codepen.io/jairosilva2005/full/QWvydEd)
 
 ## Estatísticas
 
