@@ -18,7 +18,7 @@
 * 📰 CSS3 | Pré-processadores
 
 ## Sistema operacional
-* 🐧 Linux Lite 5.4
+* 🐧 Linux Mint 5.4.0 Uma
 * 🕵🏽‍♂️ Linux Terminal
 
 ## Projetos
