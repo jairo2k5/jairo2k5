@@ -6,14 +6,15 @@
 * 📚 Terminando o ensino médio <br>
 * 💻 Cursando técnico de T.I <br>
 
-## Linguagens de desenvolvimento Back-end
+## Tecnologias de desenvolvimento Back-end
 * 🐬 MySQL | SQL
 * 🐘 PHP
 * 😼 C/C++ (C++98 | C++11)
 * ☕ Java
+* 🦕 Node.js
 
-## Linguagens de desenvolvimento Front-end
-* ⚛️ JavaScript | Node.js | React.js
+## Tecnologias de desenvolvimento Front-end
+* ⚛️ JavaScript | React.js
 * 📄 HTML5
 * 📰 CSS3 | Pré-processadores
 
