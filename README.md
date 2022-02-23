@@ -1,6 +1,8 @@
 <h1 align="center">Jairo H. Da Silva 👨‍💻</h1> 
 <h3 align="center">Sempre aprendendo 📌</h3>
 
+## Observação: perfil parado por motivos escolares
+
 ## Sobre mim
 * 🌱 Nunca é tarde para aprender algo novo <br>
 * 📚 Terminando o ensino médio <br>
