@@ -1,4 +1,4 @@
-<h1 align="center">Jairo H. Da Silva 👨‍💻</h1> 
+<h1 align="center">Jairo H. da Silva 👨‍💻</h1>
 <h3 align="center">Sempre aprendendo 📌</h3>
 
 ## Observação: perfil parado por motivos escolares
