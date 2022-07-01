@@ -1,8 +1,6 @@
 <h1 align="center">Jairo H. da Silva 👨‍💻</h1>
 <h3 align="center">Sempre aprendendo 📌</h3>
 
-## Observação: perfil parado por motivos escolares
-
 ## Sobre mim
 * 🌱 Nunca é tarde para aprender algo novo <br>
 * 📚 Terminando o ensino médio <br>
@@ -16,12 +14,12 @@
 * 🦕 Node.js
 
 ## Tecnologias de desenvolvimento Front-end
-* ⚛️ JavaScript | React.js
+* ⚛️ JavaScript | React.js (básico)
 * 📄 HTML5
 * 📰 CSS3 | Pré-processadores
 
 ## Sistema operacional
-* 🐧 Linux Mint 5.4.0 Uma
+* 🐧 Satux Debian-based
 * 🕵🏽‍♂️ Linux Terminal
 
 ## Projetos
