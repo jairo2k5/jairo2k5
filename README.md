@@ -18,9 +18,9 @@
 * 📄 HTML5
 * 📰 CSS3 | Pré-processadores
 
-## Sistema operacional
-* 🐧 Satux Debian-based
-* 🕵🏽‍♂️ Linux Terminal
+## Sistemas operacionais
+* 💻 Windows 10
+* 🐧 Linux (Debian-based)
 
 ## Projetos
 [Calculadora](https://jairosilva2005.github.io/javascript-calculator/)
