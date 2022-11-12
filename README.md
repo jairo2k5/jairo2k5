@@ -4,7 +4,7 @@
 ## Sobre mim
 * 🌱 Nunca é tarde para aprender algo novo <br>
 * 📚 Terminando o ensino médio <br>
-* 💻 Cursando técnico de T.I <br>
+* 💻 Tècnico de T.I <br>
 
 ## Tecnologias de desenvolvimento Back-end
 * 🐬 MySQL | SQL
