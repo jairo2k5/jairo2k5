@@ -30,8 +30,8 @@
 ## Estatísticas
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jairosilva2005&show_icons=true&theme=dracula" width="50%" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosilva2005&layout=compact&theme=dracula&hide=html" width="49.5%" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api?username=jairo2k5&show_icons=true&theme=dracula" width="50%" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairo2k5&layout=compact&theme=dracula&hide=html" width="49.5%" height="180em">
 </div>
 
 ##
