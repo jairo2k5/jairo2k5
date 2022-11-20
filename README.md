@@ -1,5 +1,4 @@
 <h1 align="center">Jairo H.S. 👨‍💻</h1>
-<h3 align="center">Sempre aprendendo 📌</h3>
 
 ## Sobre mim
 * 🌱 Nunca é tarde para aprender algo novo <br>
