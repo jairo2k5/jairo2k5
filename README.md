@@ -1,4 +1,4 @@
-<h1 align="center">Jairo H Silva</h1>
+<h1 align="center">Jairo H. Silva</h1>
 
 * 💻 Técnico de T.I. <br>
 * 🐬 MySQL | SQL
