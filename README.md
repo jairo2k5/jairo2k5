@@ -1,16 +1,16 @@
 <h1 align="center">Jairo H. Silva</h1>
 
-* 💻 Técnico de T.I. <br>
-* 🐬 MySQL | SQL
-* 🐘 PHP
-* 😼 C/C++ (C++98 | C++11)
-* ☕ Java
-* 🦕 Node.js
-* ⚛️ JavaScript | React.js (básico)
-* 📄 HTML5
-* 📰 CSS3 | Pré-processadores
-* 💻 Windows
-* 🐧 Linux (Debian-based)
+* Técnico de T.I. <br>
+* MySQL | SQL
+* PHP
+* C/C++ (C++98 | C++11)
+* Java
+* Node.js
+* JavaScript | React.js (básico)
+* HTML5
+* CSS3 | Pré-processadores
+* Windows
+* Linux (Debian-based)
 
 ## Projetos
 [Calculadora](https://jairo2k5.github.io/javascript-calculator/)
