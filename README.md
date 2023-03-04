@@ -1,23 +1,15 @@
 <h1 align="center">Jairo H.S. 👨‍💻</h1>
 
-## Sobre mim
-* 🌱 Nunca é tarde para aprender algo novo <br>
 * 💻 Técnico de T.I. <br>
-
-## Tecnologias de desenvolvimento Back-end
 * 🐬 MySQL | SQL
 * 🐘 PHP
 * 😼 C/C++ (C++98 | C++11)
 * ☕ Java
 * 🦕 Node.js
-
-## Tecnologias de desenvolvimento Front-end
 * ⚛️ JavaScript | React.js (básico)
 * 📄 HTML5
 * 📰 CSS3 | Pré-processadores
-
-## Sistemas operacionais
-* 💻 Windows 10
+* 💻 Windows
 * 🐧 Linux (Debian-based)
 
 ## Projetos
