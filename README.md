@@ -21,8 +21,8 @@
 * 🐧 Linux (Debian-based)
 
 ## Projetos
-[Calculadora](https://jairosilva2005.github.io/javascript-calculator/)
-[TicTacToe](https://jairosilva2005.github.io/tictactoe/)
+[Calculadora](https://jairo2k5.github.io/javascript-calculator/)
+[TicTacToe](https://jairo2k5.github.io/tictactoe/)
 [JBrowser Website](http://jbrowser-website.vercel.app/)
 [Save.do Tasks](https://codepen.io/jairosilva2005/full/QWvydEd)
 
