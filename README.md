@@ -10,6 +10,7 @@
 * JavaScript | React.js (básico)
 * HTML5
 * CSS3 | Pré-processadores
+* Python2, Python3
 * Windows
 * Linux (Debian-based)
 
