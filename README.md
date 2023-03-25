@@ -12,7 +12,7 @@
 * CSS3 | Pré-processadores
 * Python2, Python3
 * Windows
-* Linux (Debian-based)
+* Linux/Shell (Debian-based)
 
 ## Projetos
 [Calculadora](https://jairo2k5.github.io/javascript-calculator/)
