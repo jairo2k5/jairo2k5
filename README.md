@@ -1,18 +1,13 @@
 ```js
-console.log("hello world!");
+console.log("Hi!");
+const interests = {
+  lang: ['JavaScript', 'Java', 'C/C++', 'Python', 'PHP'],
+  os: ['Windows', 'Linux'],
+  db: ['MariaDB', 'MySQL', 'SQLite', 'sql/no-sql', 'new-releases'],
+  tech: ['Node', 'React', 'Frameworks'],
+  front: ['HTML5', 'CSS3', 'SASS/SCSS']
+}
 ```
-* Técnico de T.I.
-* Bancos de Dados | SQL
-* PHP
-* C/C++ (C++98 | C++11)
-* Java
-* Node.js
-* JavaScript | React.js (básico)
-* HTML5
-* CSS3 | Pré-processadores
-* Python
-* Windows
-* Linux/Shell (Debian-based)
 
 ## Projetos
 [Calculadora](https://jairo2k5.github.io/javascript-calculator/)
