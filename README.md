@@ -1,4 +1,7 @@
-* Técnico de T.I. <br>
+```js
+console.log("hello world!");
+```
+* Técnico de T.I.
 * Bancos de Dados | SQL
 * PHP
 * C/C++ (C++98 | C++11)
