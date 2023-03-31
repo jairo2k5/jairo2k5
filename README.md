@@ -1,7 +1,4 @@
-<h1 align="center">Jairo H. Silva</h1>
-
 * Técnico de T.I. <br>
-* Desenvolvimento de Softwares
 * Bancos de Dados | SQL
 * PHP
 * C/C++ (C++98 | C++11)
