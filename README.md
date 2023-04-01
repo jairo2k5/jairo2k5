@@ -5,7 +5,8 @@ const interests = {
   os: ['Windows', 'Linux'],
   db: ['MariaDB', 'MySQL', 'SQLite', 'sql/no-sql', 'new-releases'],
   tech: ['Node', 'React', 'Frameworks'],
-  front: ['HTML5', 'CSS3', 'SASS/SCSS']
+  front: ['HTML5', 'CSS3', 'SASS/SCSS'],
+  uni: ['Federal University of Ceara']
 }
 ```
 
