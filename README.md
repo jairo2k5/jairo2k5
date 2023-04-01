@@ -1,5 +1,5 @@
 ```js
-console.log("Hi!");
+console.log("Hi!")
 const interests = {
   lang: ['JavaScript', 'TypeScript', 'Java', 'C/C++', 'Python', 'PHP'],
   os: ['Windows', 'Linux'],
