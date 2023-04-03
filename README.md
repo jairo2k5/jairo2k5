@@ -10,10 +10,10 @@ const interests = {
 }
 ```
 ##
-[Calculadora](https://jairo2k5.github.io/javascript-calculator/)
-[TicTacToe](https://jairo2k5.github.io/tictactoe/)
-[JBrowser Website](http://jbrowser-website.vercel.app/)
-[Save.do Tasks](https://codepen.io/jairosilva2005/full/QWvydEd)
+- [Calculadora](https://jairo2k5.github.io/javascript-calculator/)
+- [TicTacToe](https://jairo2k5.github.io/tictactoe/)
+- [JBrowser Website](http://jbrowser-website.vercel.app/)
+- [Save.do Tasks](https://codepen.io/jairosilva2005/full/QWvydEd)
 ##
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=jairo2k5&show_icons=true&theme=dracula" width="50%" height="180em">
