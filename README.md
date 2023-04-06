@@ -17,6 +17,6 @@ const interests = {
 - ✂️ [Image Crop](http://image-crop-blush.vercel.app/)
 ##
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jairo2k5&show_icons=true&theme=dracula" width="50%" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api?username=jairo2k5&show_icons=true&theme=light" width="50%" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairo2k5&layout=compact&theme=dracula&hide=html" width="49.5%" height="180em">
 </div>
