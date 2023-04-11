@@ -17,9 +17,7 @@ const interests = {
 - ✂️ [Image Crop](http://image-crop-blush.vercel.app/)
 ##
 
-<div styles="width:50%">
 https://user-images.githubusercontent.com/70125199/231050805-5513214f-c31d-4b78-a1d1-e9325cdcc9cd.mp4
-</div>
   
 ##
 <div>
