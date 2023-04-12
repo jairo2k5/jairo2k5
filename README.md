@@ -9,12 +9,13 @@ const interests = {
   uni: ['Federal University of Ceara']
 }
 ```
+##
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jairo2k5&show_icons=true&theme=light" width="50%" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairo2k5&layout=compact&theme=light&hide=html" width="49.5%" height="180em">
-</div>
+![](https://raw.githubusercontent.com/jairo2k5/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jairo2k5/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ##
 
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
