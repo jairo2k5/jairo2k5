@@ -9,10 +9,6 @@ const interests = {
   uni: ['Federal University of Ceara']
 }
 ```
-##
-
-![](https://raw.githubusercontent.com/jairo2k5/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/jairo2k5/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ##
 
