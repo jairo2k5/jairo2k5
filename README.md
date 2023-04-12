@@ -9,13 +9,6 @@ const interests = {
   uni: ['Federal University of Ceara']
 }
 ```
-##
-- ➗ [Calculadora](https://jairo2k5.github.io/javascript-calculator/)
-- 🧩 [TicTacToe](https://jairo2k5.github.io/tictactoe/)
-- 🌐 [JBrowser Website](http://jbrowser-website.vercel.app/)
-- ✔️ [Save.do Tasks](https://codepen.io/jairosilva2005/full/QWvydEd)
-- ✂️ [Image Crop](http://image-crop-blush.vercel.app/)
-##
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=jairo2k5&show_icons=true&theme=light" width="50%" height="180em">
@@ -24,6 +17,4 @@ const interests = {
 
 ##
 
-![](https://gitwar.herokuapp.com/badge?username=jairo2k5&style=for-the-badge)
-
-##
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
