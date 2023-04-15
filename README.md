@@ -4,7 +4,7 @@ const interests = {
   lang: ['JavaScript', 'TypeScript', 'Java', 'C/C++', 'Python', 'PHP'],
   os: ['Windows', 'Linux'],
   db: ['MariaDB', 'MySQL', 'SQLite', 'sql/no-sql', 'new-releases'],
-  tech: ['Node', 'React', 'Frameworks'],
+  tech: ['Node', 'Spring', 'React', 'Frameworks'],
   front: ['HTML5', 'CSS3', 'SASS/SCSS'],
   uni: ['Federal University of Ceara']
 }
