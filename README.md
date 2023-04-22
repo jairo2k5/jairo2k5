@@ -10,3 +10,4 @@ const interests = {
 }
 ```
 ![](https://github-readme-stats.vercel.app/api?username=jairo2k5&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jairo2k5&layout=compact)](https://github.com/jairo2k5/github-readme-stats)
