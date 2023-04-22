@@ -9,3 +9,4 @@ const interests = {
   uni: ['Federal University of Ceara']
 }
 ```
+![](https://github-readme-stats.vercel.app/api?username=jairo2k5&show_icons=true&theme=dracula)
