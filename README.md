@@ -6,6 +6,7 @@ const interests = {
   db: ['MySQL', 'SQLite', 'sql/no-sql', 'new-releases'],
   tech: ['Node', 'Spring', 'React', 'Frameworks'],
   front: ['HTML5', 'CSS3', 'SASS/SCSS'],
+  vcs: ['Github', 'GitLab', 'BitBucket', 'Git'],
   uni: ['Federal University of Ceara']
 }
 ```
