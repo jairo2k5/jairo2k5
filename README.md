@@ -1,9 +1,9 @@
 ```js
 const interests = {
-  lang: ['JavaScript', 'TypeScript', 'Java', 'C/C++', 'Python', 'PHP'],
+  lang: ['TypeScript', 'Java', 'C/C++'],
   os: ['Windows', 'Linux'],
   db: ['MySQL', 'SQLite', 'sql/no-sql', 'new-releases'],
-  tech: ['Node', 'Spring', 'React', 'Frameworks'],
+  tech: ['Node', 'Spring', 'Angular'],
   front: ['HTML5', 'CSS3', 'SASS/SCSS'],
   vcs: ['Github', 'GitLab', 'BitBucket', 'Git'],
   uni: ['Federal University of Ceara']
