@@ -6,8 +6,7 @@ const interests = {
   lang: ['TypeScript', 'Java', 'C/C++'],
   os: ['Windows', 'Linux'],
   back: ['Node', 'Spring'],
-  front: ['Angular'],
-  uni: ['Federal University of Ceara']
+  front: ['Angular']
 }
 ```
 
